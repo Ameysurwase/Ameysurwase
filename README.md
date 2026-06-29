@@ -1,18 +1,106 @@
-# 💫 About Me:
-<br>- 🎓Completed my IT Engineering from DMCE<br>- 🌱 Currently learning AI & Machine Learning<br>- 💻 Building Indian Art Mate and Level Up Club<br>- 📫 Reach me at: ameysurwase07@gmail.com<br>- ⚡ Fun fact: I turn coffee into code ☕ and I am a good problem solver
+<div align="center">
 
+# Hi 👋, I'm Amey Surwase
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Amey Surwase](https://www.linkedin.com/in/amey-surwase-09182b321/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ameysurwase07@gmail.com) 
+### Full Stack Developer | AI Enthusiast | Cloud Explorer
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ameysurwase&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ameysurwase&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ameysurwase&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=Ameysurwase&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ameysurwase&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Completed IT Engineering from DMCE
+- 🌱 Currently learning AI & Machine Learning
+- 💻 Building Indian Art Mate and Level Up Club
+- ☁️ Exploring AWS & Cloud Computing
+- 📫 Reach me at: **ameysurwase07@gmail.com**
+- ⚡ Fun fact: I turn coffee ☕ into code.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/amey-surwase-09182b321/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:ameysurwase07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/Ameysurwase">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,tailwind,flask,git,github,aws,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ameysurwase&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameysurwase&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ameysurwase&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ameysurwase&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ameysurwase&theme=tokyonight&row=1"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎨 Indian Art Mate
+AI-powered platform for Indian artists to showcase and sell their artwork.
+
+### 💼 Level Up Club
+AI-based career guidance and professional networking platform.
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ameysurwase/Ameysurwase/blob/output/github-contribution-grid-snake.svg)
